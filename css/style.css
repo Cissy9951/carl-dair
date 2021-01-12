@@ -1,0 +1,39 @@
+body{
+    font-family:Helvetica;
+    background-color: rgb(55, 83, 80);
+}
+
+h1{
+    color:#ff9900;
+    font-size:6vh;
+}
+
+h2{
+    color:#ff9900;
+    font-size:4vh;
+}
+
+.author{
+    color:#ff9900;
+    font-size:5vh;
+    padding-bottom: 8vh;
+}
+
+p{
+    color:rgb(154, 201, 162);
+    font-size:3vh;
+    text-indent: 35px;
+}
+
+p::first-letter{
+    font-size:4vh;
+}
+
+.a{
+    color:rgb(179, 201, 154);
+
+}
+
+.b{
+    color:rgb(154, 201, 179);
+}
